@@ -7,5 +7,5 @@ public class Test1
     {
         System.out.println("hello wolrd 1");
     }
-	//³åÍ»µÄÐÞ¸Ä
+	//what the fuck
 }
